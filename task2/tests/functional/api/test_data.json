@@ -1,0 +1,28 @@
+[
+  {
+    "target_id": "zesty-utopia-jostle",
+    "result": {
+      "code": 200,
+      "body": ["zesty-utopia-jostle"]
+    }
+  },
+  {
+    "target_id": "zenith-wistful-invent",
+    "result": {
+      "code": 200,
+      "body": [
+        "zany-twine-inspire",
+        "zircon-utopia-interject",
+        "zenith-yoga-indulge",
+        "zenith-wistful-invent"
+      ]
+    }
+  },
+  {
+    "target_id": "fake-uuid",
+    "result": {
+      "code": 404,
+      "body": {"detail": "ID 'fake-uuid' was not found"}
+    }
+  }
+]

@@ -1,0 +1,5 @@
+[tool.pytest.ini_options]
+pythonpath = [
+  "task1", "task2", "task2/src"
+]
+asyncio_mode = "auto"
